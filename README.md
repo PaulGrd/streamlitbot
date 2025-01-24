@@ -9,9 +9,9 @@
 ###     2. Installez les librairies nécessaires à l'exécution du code Python :
     pip install -r requirements.txt
 
-###     3. Créez un dossier .streamlit et un fichier secrets.toml à l'intérieur
+###     3. Créez un dossier .streamlit et un fichier secrets.toml à l'intérieur de ce dossier
 
-###     4. Copiez ce code en remplaçant YOUR_API_KEY par votre clé API OpenAI :
+###     4. Copiez ce code dans le fichier secrets.toml en remplaçant YOUR_API_KEY par votre clé API OpenAI :
     # .streamlit/secrets.toml
     OPENAI_API_KEY = "YOUR_API_KEY"
 
