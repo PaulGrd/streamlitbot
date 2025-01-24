@@ -6,5 +6,8 @@
 ###     1. Lancez un terminal et exécutez la commande ci dessous :
     git clone https://github.com/PaulGrd/streamlitbot.git
 
-###     2. Pour tester le chatbot, exécutez cette commande :
+###     2. Installez les librairies nécessaires à l'exécution du code Python :
+    pip install -r requirements.txt
+
+###     3. Pour tester le chatbot, exécutez cette commande :
     streamlit run chatbotgpt.py
