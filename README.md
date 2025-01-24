@@ -1,2 +1,3 @@
-# streamlitbot
-Création de mon premier chatbot streamlit
+## Groupe:
+    * Paul GIRAUD
+    * Martin MORIN
